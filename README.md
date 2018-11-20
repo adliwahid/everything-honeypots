@@ -13,6 +13,5 @@ Framework
 3. Community Honey Network  (fork of MHN) - https://github.com/CommunityHoneyNetwork/CHN-Server
 4. HPfeeds - https://github.com/rep/hpfeeds
 
-Presentations 
-1. 
-2. 
+Anti-Honeypot 
+1. HoneypotBuster - https://github.com/JavelinNetworks/HoneypotBuster
